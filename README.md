@@ -4,7 +4,7 @@
 
 I recently completed a Data Analysis course covering Python, SQL, Power BI, and Tableau, and I'm now building my portfolio as I start my journey into data analytics. Below are 6 exploratory data analysis (EDA) projects that showcase my ability to clean, explore, visualize, and draw insights from real-world datasets.
 
-📫 **Contact:** avinashyadav4955@gmail.com | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Geass4955)
+📫 **Contact:** avinashyadav4955@gmail.com | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Geass4955)https://geass4955.github.io/
 
 ---
 
