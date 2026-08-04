@@ -6,77 +6,66 @@ I recently completed a Data Analysis course covering Python, SQL, Power BI, and 
 
 📫 **Contact:** avinashyadav4955@gmail.com | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Geass4955)https://geass4955.github.io/
 
----
 
-## 🛠️ Skills
+<h3 align="center">Data Analyst turning raw data into decisions</h3>
 
-**Programming & Libraries**
-- Python — Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (basics)
+<p align="center">
+I clean messy datasets, run exploratory analysis, and build dashboards that help people make decisions — using Python, SQL, Tableau, and Power BI.
+</p>
 
-**Databases**
-- SQL — Joins, aggregations, subqueries, window functions, data cleaning queries
+<p align="center">
+📫 <a href="mailto:avinashyadav4955@gmail.com">avinashyadav4955@gmail.com</a> ·
+🔗 <a href="https://www.linkedin.com/in/avinash-yadav5942ab422">LinkedIn</a> ·
+🌐 <a href="https://geass4955.github.io">Portfolio</a>
+</p>
 
-**Data Visualization & BI Tools**
-- Power BI — Interactive dashboards, DAX basics, data modeling
-- Tableau — Dashboards, storytelling with data, calculated fields
-
-**Other**
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Statistical Analysis
-- Excel
+<p align="center">
+<a href="https://geass4955.github.io"><img src="https://img.shields.io/badge/View%20My%20Portfolio-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=06b6d4" alt="View My Portfolio"></a>
+</p>
 
 ---
 
-## 📊 Projects
+### 🛠️ Tools & Technologies
 
-### 1. [E-Commerce Customer Behavior Analysis](https://github.com/Geass4955/Projects)
-Analyzed customer purchase patterns and behavior on an e-commerce platform to identify trends in spending, retention, and engagement.
-- Cleaned and preprocessed raw transactional data using Pandas
-- Explored customer segments, purchase frequency, and revenue trends
-- Visualized key metrics using Matplotlib/Seaborn
-- **Tools:** Python, Pandas, Matplotlib, Seaborn
-
-### 2. [Car Price Prediction — EDA](https://github.com/Geass4955/Projects)
-Explored a used car dataset to understand which features (brand, mileage, fuel type, year, etc.) most influence resale price.
-- Handled missing values and outliers
-- Analyzed correlations between price and vehicle features
-- Built visualizations to highlight pricing trends
-- **Tools:** Python, Pandas, NumPy, Seaborn
-
-### 3. [Used Car Sales Analysis](https://github.com/Geass4955/Projects)
-Investigated used car sales data to uncover patterns in pricing, demand, and popular vehicle categories across regions.
-- Performed data cleaning and feature exploration
-- Identified top-selling brands and price distribution trends
-- Created summary visualizations for key findings
-- **Tools:** Python, Pandas, Matplotlib
-
-### 4. [Titanic Survival Analysis](https://github.com/Geass4955/Projects)
-Classic EDA on the Titanic dataset to explore factors affecting passenger survival rate.
-- Analyzed survival rate by gender, class, age, and fare
-- Handled missing data (age, cabin) using appropriate imputation
-- Visualized survival trends across different passenger groups
-- **Tools:** Python, Pandas, Seaborn, Matplotlib
-
-### 5. [Video Game Sales Analysis](https://github.com/Geass4955/Projects)
-Explored global video game sales data to identify trends across platforms, genres, and regions over time.
-- Analyzed sales trends by genre, platform, and publisher
-- Compared regional sales (NA, EU, JP, Global)
-- Visualized top-performing games and platforms over the years
-- **Tools:** Python, Pandas, Matplotlib, Seaborn
-
-### 6. [Anime Dataset Analysis](https://github.com/Geass4955/Projects)
-Performed EDA on an anime dataset to explore ratings, genres, and popularity trends.
-- Cleaned and structured raw anime metadata
-- Explored relationships between genre, ratings, and popularity
-- Visualized top-rated genres and trends over time
-- **Tools:** Python, Pandas, Seaborn, Matplotlib
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🎓 Background
-Currently in my 3rd year of a Bachelor's degree (BBS), with hands-on training in data analysis through a completed course covering Python, SQL, Power BI, and Tableau. This portfolio marks my first step into the data analytics field.
+### 📊 Featured Projects
+
+**[Hotel Booking Demand Analysis](https://github.com/Geass4955/data-analysis-certification-task)**
+A full certification-grade pipeline on 119K+ hotel bookings — cleaning, outlier handling, feature engineering, encoding/scaling, and univariate through multivariate analysis to understand what drives cancellations and revenue.
+`Python` `Pandas` `NumPy` `Scikit-learn` `Seaborn`
+
+**[E-Commerce Customer Behavior Analysis](https://github.com/Geass4955/Projects)**
+An EDA on 5,000 e-commerce orders exploring customer demographics, order value, category performance, delivery speed, and rating patterns.
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ---
 
-⭐ Feel free to explore my [GitHub Projects repo](https://github.com/Geass4955/Projects) for the full notebooks and code.
+### 📁 All Projects
+
+| Project | Description |
+|---|---|
+| 🏨 [Hotel Booking Demand Analysis](https://github.com/Geass4955/data-analysis-certification-task) | Cancellation & revenue drivers across 119K+ hotel bookings |
+| 🛒 [E-Commerce Customer Behavior](https://github.com/Geass4955/Projects) | Purchasing patterns across 5,000 orders |
+| 🚗 [Used Car Market & Sales Analysis](https://github.com/Geass4955/Projects) | Pricing, mileage & sales agent performance across 10,000 listings |
+| 🚢 [Titanic Survival Analysis](https://github.com/Geass4955/Projects) | Factors associated with passenger survival |
+| 💰 [Car Price Analysis](https://github.com/Geass4955/Projects) | How brand, mileage & specs drive market price |
+| 🎬 [Anime Ratings Analysis](https://github.com/Geass4955/Projects) | Genre trends and what drives audience ratings |
+| 🎮 [Video Game Sales Analysis](https://github.com/Geass4955/Projects) | Global sales by platform, genre & region |
+
+See the Hotel Booking notebook in [Geass4955/data-analysis-certification-task](https://github.com/Geass4955/data-analysis-certification-task), the other 6 in [Geass4955/Projects](https://github.com/Geass4955/Projects), or view the full write-ups on my [portfolio site](https://geass4955.github.io).
+
+---
+
+<p align="center"><i>Business Studies student at Tribhuvan University, building a data analytics career one project at a time.</i></p>
